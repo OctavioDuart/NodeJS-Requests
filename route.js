@@ -22,7 +22,7 @@ routes.get('/find/address', (req, res) => {
             })
             .then(response => {
                 response.map((item, i) => {
-                    if (i !== 5) {
+                    if (i !== 6) {
                         if (i === 4) {
                             arr.push(item.short_name);
                         }
