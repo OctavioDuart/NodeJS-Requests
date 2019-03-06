@@ -19,7 +19,7 @@ Instale as dependências navegando até o nível do arquivo package.json e digit
 
 3º Passo :
 
-Insira a chave de segurança do Google no arquivo config.js que esta no diretório hoc. As requisições não serão realizadas com sucesso se isso não for feito.Você pode ver as instruções de como gerar a chave neste [link]https://developers.google.com/maps/documentation/embed/get-api-key) .
+Insira a chave de segurança do Google no arquivo config.js que esta no diretório hoc. As requisições não serão realizadas com sucesso se isso não for feito.Você pode ver as instruções de como gerar a chave neste site https://developers.google.com/maps/documentation/embed/get-api-key) .
 
 
 4º Passo : 
